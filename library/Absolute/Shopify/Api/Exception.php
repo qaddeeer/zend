@@ -7,10 +7,10 @@
  */
 
 /**
- * Description of Absolute_Shopify_Curl_Exception
+ * Description of Absolute_Shopify_Api_Exception
  *
  * @author QADEER
  */
-class Absolute_Shopify_Curl_Exception extends Exception {
+class Absolute_Shopify_Api_Exception extends Exception {
     
 }
